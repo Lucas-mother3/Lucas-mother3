@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Lucas-mother3/Lucas-mother3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +12,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Gunpei Yokoi made the Game and Watch because he saw a businessman playing with his calculator on a train. 
 - 🎮 Favorite game: alot. 
--->
