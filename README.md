@@ -27,7 +27,7 @@
 ## Projects
 
 * [Suckless Utilities](https://github.com/Lucas-mother3/suckless-utils) 
-* [Mythras compatibility list(https://github.com/Lucas-mother3/mythras-compatibility)
+* [Mythras compatibility list](https://github.com/Lucas-mother3/mythras-compatibility)
 
 ### RSS feed
 
