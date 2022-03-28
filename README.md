@@ -32,8 +32,9 @@
 ### RSS feed
 
 This is the RSS feed of my Neocities website.
-If you want to use it, you add this on `~/.config/newsboat/urls`
-Using other platforms? Use an another RSS client
+If you want to use it, you add this on `~/.config/newsboat/urls`.
+
+Using other platforms? Use an another RSS client.
 
 [RSS Feed](https://alexisgaming95.neocities.org/feed.xml)
 
