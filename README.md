@@ -24,7 +24,7 @@
 * [WordPress](https://alexisgaming21.wordpress.com)
 * [Neocities](https://alexisgaming95.neocities.org)
 
-## Projects
+### Projects
 
 * [Suckless Utilities](https://github.com/Lucas-mother3/suckless-utils) 
 * [Mythras compatibility list](https://github.com/Lucas-mother3/mythras-compatibility)
