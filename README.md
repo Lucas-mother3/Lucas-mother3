@@ -23,6 +23,7 @@
 
 * [WordPress](https://alexisgaming21.wordpress.com)
 * [Neocities](https://alexisgaming95.neocities.org)
+* Lumine Browser (idea only)
 
 ### Projects
 
@@ -37,9 +38,6 @@ If you want to use it, you add this on `~/.config/newsboat/urls`.
 Using other platforms? Use an another RSS client.
 
 [RSS Feed](https://alexisgaming95.neocities.org/feed.xml)
-
-### Future plans
-* I going to make a text browser soon.
 
 ### Socials
 * [Twitter](https://twitter.com/Lucss21a)
