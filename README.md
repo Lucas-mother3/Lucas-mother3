@@ -23,13 +23,27 @@
 
 * [WordPress](https://alexisgaming21.wordpress.com)
 * [Neocities](https://alexisgaming95.neocities.org)
-* Lumine Browser (idea only)
 
 ### Projects
 
 * [Suckless Utilities](https://github.com/Lucas-mother3/suckless-utils) 
 * [Mythras compatibility list](https://github.com/Lucas-mother3/mythras-compatibility)
 * [CyanogenMax2D](https://github.com/Lucas-mother3/CyanogenMax2D)
+* Lumine Browser (idea only) 
+
+### Configurations
+What? Do you want my configuration to my Linux install? 
+
+I mainly use Linux via Termux Proot so hopefully it could work on Termux. 
+
+#### Bonuses
+* Prebuilt RSS feeds
+* Fixes for FireFox and LibreWolf to run on Termux 
+* Newsboat macro to watch YouTube videos via `yt-dlp`
+* Some jshit (because those browsers used it.)
+
+If you want my configuration files, [please go here.](https://github.com/Lucas-mother3/alexis-conf)
+
 ### RSS feed
 
 This is the RSS feed of my Neocities website.
