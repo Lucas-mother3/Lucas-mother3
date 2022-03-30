@@ -24,12 +24,28 @@
 * [WordPress](https://alexisgaming21.wordpress.com)
 * [Neocities](https://alexisgaming95.neocities.org)
 
-### Projects
+### `./projects.sh`
 
-* [Suckless Utilities](https://github.com/Lucas-mother3/suckless-utils) 
-* [Mythras compatibility list](https://github.com/Lucas-mother3/mythras-compatibility)
-* [CyanogenMax2D](https://github.com/Lucas-mother3/CyanogenMax2D)
-* Lumine Browser (idea only) 
+```
+[ ]Projects
+ |_[ ]Current
+    |_ [ ]Suckless Utilities
+    |_ [ ]Alexis configs
+    |_ [ ]AGR Classic
+        |_ [ ] AGR Classic RSS Feed
+    |_ [ ]AGR blogs
+    |_ [ ]AGR YouTube Channel
+    |_ [ ]Max2D Store 
+ |_[ ]Upcoming
+    |_ [ ]Lumine Browser
+    |_ [ ]Ken 3D Blast 
+ |_[ ]Not maintained - On hold - Canceled
+    |_ [ ]Sonic F-treme 
+    |_ [ ]Gametoons Magazine
+    |_ [ ]Mythras Compatibility 
+    |_ [ ]CyanogenMax2D 
+    |_ [ ]more...
+```
 
 ### Configurations
 What? Do you want my configuration to my Linux install? 
