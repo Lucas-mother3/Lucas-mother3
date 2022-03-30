@@ -27,24 +27,24 @@
 ### `./projects.sh`
 
 ```
-[ ]Projects
- |_[ ]Current
+[-]Projects
+ |_[-]Current
     |_ [ ]Suckless Utilities
     |_ [ ]Alexis configs
-    |_ [ ]AGR Classic
+    |_ [-]AGR Classic
         |_ [ ] AGR Classic RSS Feed
     |_ [ ]AGR blogs
     |_ [ ]AGR YouTube Channel
     |_ [ ]Max2D Store 
- |_[ ]Upcoming
+ |_[-]Upcoming
     |_ [ ]Lumine Browser
     |_ [ ]Ken 3D Blast 
- |_[ ]Not maintained - On hold - Canceled
+ |_[-]Not maintained - On hold - Canceled
     |_ [ ]Sonic F-treme 
     |_ [ ]Gametoons Magazine
     |_ [ ]Mythras Compatibility 
     |_ [ ]CyanogenMax2D 
-    |_ [ ]more...
+    |_ [+]more...
 ```
 
 ### Configurations
