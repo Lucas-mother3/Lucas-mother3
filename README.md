@@ -80,4 +80,4 @@ Using other platforms? Use an another RSS client.
 * [BetaWiki](https://betawiki.net/wiki/User:Lucss21a)
 
 
-[![This guy uses dwm](https://github.com/Lucas-mother3/Lucas-mother3/dwm.png)](https://dwm.suckless.org) 
+[![This guy uses dwm](https://github.com/Lucas-mother3/Lucas-mother3/raw/main/dwm.png)](https://dwm.suckless.org) 
