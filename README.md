@@ -78,3 +78,6 @@ Using other platforms? Use an another RSS client.
 * [Discord Server](https://discord.gg/eTP3uJqN6at)
 * [Itch.io](https://lucss21a.itch.io)
 * [BetaWiki](https://betawiki.net/wiki/User:Lucss21a)
+
+
+[![This guy uses dwm](https://github.com/Lucas-mother3/Lucas-mother3/dwm.png)](https://dwm.suckless.org) 
