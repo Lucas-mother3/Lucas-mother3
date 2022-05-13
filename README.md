@@ -36,6 +36,7 @@
     |_ [ ]AGR blogs
     |_ [ ]AGR YouTube Channel
     |_ [ ]Max2D Store 
+    |_ [ ]AGRtv
  |_[-]Upcoming
     |_ [ ]Lumine Browser
     |_ [ ]Ken 3D Blast 
@@ -67,7 +68,12 @@ If you want to use it, you add this on `~/.config/newsboat/urls`.
 
 Using other platforms? Use an another RSS client.
 
-[RSS Feed](https://alexisgaming95.neocities.org/feed.xml)
+[RSS 1.0 Feed](https://alexisgaming95.neocities.org/rdf.xml)
+[RSS 2.0 Feed](https://alexisgaming95.neocities.org/feed.xml)
+[Atom Feed](https://alexisgaming95.neocities.org/atom.xml)
+
+### AGRtv
+My own little IPTV channel. You can view it via [NezLabs Play](https://nezlabs.github.io), or video-on-demand via [the source repo](https://github.com/Lucas-mother3/agrtv).
 
 ### Socials
 * [Twitter](https://twitter.com/Lucss21a)
