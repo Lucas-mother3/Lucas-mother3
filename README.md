@@ -37,6 +37,7 @@
     |_ [ ]AGR YouTube Channel
     |_ [ ]Max2D Store 
     |_ [ ]AGRtv
+    |_ [ ]Mini vMac custom builds
  |_[-]Upcoming
     |_ [ ]Lumine Browser
     |_ [ ]Ken 3D Blast 
