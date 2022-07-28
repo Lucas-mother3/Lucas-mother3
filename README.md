@@ -38,6 +38,7 @@
     |_ [ ]Max2D Store 
     |_ [ ]AGRtv
     |_ [ ]Mini vMac custom builds
+    |_ [ ]Alexis Desktop Manager
  |_[-]Upcoming
     |_ [ ]Lumine Browser
     |_ [ ]Ken 3D Blast 
@@ -75,6 +76,11 @@ Using other platforms? Use an another RSS client.
 
 ### AGRtv
 My own little IPTV channel. You can view it via [NezLabs Play](https://nezlabs.github.io), or video-on-demand via [the source repo](https://github.com/Lucas-mother3/agrtv).
+
+### Alexis Desktop Manager 
+A bash script that manages your sessions easily on Termux and Termux Proot.
+
+You can download the script [here](https://github.com/Lucas-mother3/alexis-dm).
 
 ### Socials
 * [Twitter](https://twitter.com/Lucss21a)
