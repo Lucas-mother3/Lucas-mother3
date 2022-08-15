@@ -1,12 +1,12 @@
 ## `about:Lucas-mother3`
 ```
-         -o          o-            Lucas-mother3@localhost
+         -o          o-            Lucas-mother3@Android
           +hydNNNNdyh+             ------------------
         +mMMMMMMMMMMMMm+           OS: Android 9 armv8l
       `dMMm:NMMMMMMN:mMMd`         Host: HUAWEI MRD-LX1F
       hMMMMMMMMMMMMMMMMMMh         Kernel: 4.9.117+
-  ..  yyyyyyyyyyyyyyyyyyyy  ..     Uptime: xx days, xx mins
-.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   Packages: 94 (dpkg), 1 (pkg)
+  ..  yyyyyyyyyyyyyyyyyyyy  ..     Uptime: xx days, xx hours, xx mins
+.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   Packages: ?
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   Shell: bash 5.1.16
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   CPU: MT6761V/WBB (4) @ 1.834GHz
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   Memory: 1794MiB
@@ -18,6 +18,28 @@
           MMMMo  oMMMM
           MMMMo  oMMMM
           oNMm-  -mMNs
+```
+
+```
+                                ..,   Lucas-mother3@Windows
+                    ....,,:;+ccllll   -----------
+      ...,,+:;  cllllllllllllllllll   OS: Windows 10 Pro x86_64
+,cclllllllllll  lllllllllllllllllll   Host: Gigabyte Technology Co., Ltd.
+llllllllllllll  lllllllllllllllllll   Kernel: 10.0.17763
+llllllllllllll  lllllllllllllllllll   Uptime: xx days, xx hours, xx mins
+llllllllllllll  lllllllllllllllllll   Packages: ?
+llllllllllllll  lllllllllllllllllll   Shell: bash 5.1.16
+llllllllllllll  lllllllllllllllllll   DE: Aero
+                                      WM: Explorer
+llllllllllllll  lllllllllllllllllll   WM Theme: Custom
+llllllllllllll  lllllllllllllllllll   CPU: Intel i5-3340 (4) @ 3.100GHz
+llllllllllllll  lllllllllllllllllll   GPU: Intel(R) HD Graphics
+llllllllllllll  lllllllllllllllllll   Memory: 8063MiB
+llllllllllllll  lllllllllllllllllll   
+`'ccllllllllll  lllllllllllllllllll   
+       `' \*::  :ccllllllllllllllll   
+                       ````''*::cll
+                                 ``
 ```
 
 [![Lucas-mother3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-mother3&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
