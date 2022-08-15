@@ -21,7 +21,7 @@
 ```
 
 [![Lucas-mother3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-mother3&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-mother3&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-mother3&theme=cobalt)](https://git.io/streak-stats)
 ### Blogs
 
 * [WordPress](https://alexisgaming21.wordpress.com)
