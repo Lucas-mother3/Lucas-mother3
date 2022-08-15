@@ -43,13 +43,15 @@
     |_ [ ]Mini vMac custom builds
     |_ [ ]Alexis Desktop Manager
  |_[-]Upcoming
-    |_ [ ]Lumine Browser
-    |_ [ ]Ken 3D Blast 
+    |_ [ ]Ninten's Misadventures
+    |_ [ ]Synthensia
  |_[-]Not maintained - On hold - Canceled
     |_ [ ]Sonic F-treme 
     |_ [ ]Gametoons Magazine
     |_ [ ]Mythras Compatibility 
     |_ [ ]CyanogenMax2D 
+    |_ [ ]Lumine Browser
+    |_ [ ]Ken 3D Blast 
     |_ [+]more...
 ```
 
