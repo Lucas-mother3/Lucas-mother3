@@ -95,7 +95,7 @@ If you want my configuration files, [please go here.](https://github.com/Lucas-m
 This is the RSS feed of my Neocities website.
 If you want to use it, you add this on `~/.config/newsboat/urls`.
 
-Using other platforms? Use an another RSS client (My recommendation is SeaMonkey, but it's a full suite of applications like a web browser, email client etc. or some proprietary BS like Innoreader.
+Using other platforms? Use an another RSS client (My recommendation is SeaMonkey, but it's a full suite of applications like a web browser, email client etc. or some proprietary BS like Innoreader.)
 
 [RSS 1.0 Feed](https://alexisgaming95.neocities.org/rdf.xml)
 [RSS 2.0 Feed](https://alexisgaming95.neocities.org/feed.xml)
