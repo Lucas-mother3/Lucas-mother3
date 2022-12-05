@@ -110,6 +110,7 @@ A bash script that manages your sessions easily on Termux and Termux Proot.
 You can download the script [here](https://github.com/Lucas-mother3/alexis-dm).
 
 ### Socials
+* <a href="https://mas.to/@Lucss21a" rel="me">Mastodon</a>
 * [Twitter](https://twitter.com/Lucss21a)
 * [YouTube](https://youtube.com/channel/UC-N_BmN4oIMeIfp1DkGrXLg)
 * [Internet Archives](https://archive.org/details/@lucss21a)
