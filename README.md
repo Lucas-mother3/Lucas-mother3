@@ -1,15 +1,15 @@
 ## `about:Lucas-mother3`
 ```
          -o          o-            Lucas-mother3@Android
-          +hydNNNNdyh+             ------------------
-        +mMMMMMMMMMMMMm+           OS: Android 9 armv8l
-      `dMMm:NMMMMMMN:mMMd`         Host: HUAWEI MRD-LX1F
-      hMMMMMMMMMMMMMMMMMMh         Kernel: 4.9.117+
-  ..  yyyyyyyyyyyyyyyyyyyy  ..     Uptime: xx days, xx hours, xx mins
+          +hydNNNNdyh+             -----------------
+        +mMMMMMMMMMMMMm+           OS: Android 12 aarch64
+      `dMMm:NMMMMMMN:mMMd`         Host: OPPO CPH2477 (A17)
+      hMMMMMMMMMMMMMMMMMMh         Kernel: 4.19.191+
+  ..  yyyyyyyyyyyyyyyyyyyy  ..     Uptime: xx days, xx hours, xx mins,
 .mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   Packages: ?
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   Shell: bash 5.1.16
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   CPU: MT6761V/WBB (4) @ 1.834GHz
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   Memory: 1794MiB
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   Shell: zsh 5.9
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   CPU: MT6765G (8) @ 2.301GHz
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   Memory: 3796MiB
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
 -MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
  +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
