@@ -60,14 +60,14 @@ llllllllllllll  lllllllllllllllllll
         |_ [ ] AGR Classic RSS Feed
     |_ [ ]AGR blogs
     |_ [ ]AGR YouTube Channel
-    |_ [ ]Max2D Store 
-    |_ [ ]AGRtv
     |_ [ ]Mini vMac custom builds
     |_ [ ]Alexis Desktop Manager
  |_[-]Upcoming
     |_ [ ]Ninten's Misadventures
     |_ [ ]Synthensia
  |_[-]Not maintained - On hold - Canceled
+    |_ [ ]Max2D Store 
+    |_ [ ]AGRtv
     |_ [ ]Sonic F-treme 
     |_ [ ]Gametoons Magazine
     |_ [ ]Mythras Compatibility 
@@ -76,19 +76,6 @@ llllllllllllll  lllllllllllllllllll
     |_ [ ]Ken 3D Blast 
     |_ [+]more...
 ```
-
-### Configurations
-What? Do you want my configuration to my Linux install? 
-
-I mainly use Linux via Termux Proot so hopefully it could work on Termux. 
-
-#### Bonuses
-* Prebuilt RSS feeds
-* Fixes for FireFox and LibreWolf to run on Termux 
-* Newsboat macro to watch YouTube videos via `yt-dlp`
-* Some jshit (because those browsers used it.)
-
-If you want my configuration files, [please go here.](https://github.com/Lucas-mother3/alexis-conf)
 
 ### RSS feed
 
