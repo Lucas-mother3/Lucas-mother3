@@ -19,13 +19,32 @@
           MMMMo  oMMMM
           oNMm-  -mMNs
 ```
+```
+                                     ......            Lucas-mother3@Linux
+     .,cdxxxoc,.               .:kKMMMNWMMMNk:.        ------------------ 
+    cKMMN0OOOKWMMXo. A        ;0MWk:'      ':OMMk.     OS: openSUSE Tumbleweed x86_64 
+  ;WMK;'       'lKMMNM,     :NMK'             'OMW;    Kernel: 6.5.3-1-default 
+ cMW;             WMMMN   ,XMK'                 oMM.   Uptime: xx days, xx hours, xx mins 
+.MMc             ''^*~l. xMN:                    KM0   Packages: ?
+'MM.                   .NMO                      oMM   Shell: bash 5.2.15 
+.MM,                 .kMMl                       xMN   Resolution: 1920x1080 
+ KM0               .kMM0' .dl>~,.               .WMd   DE: Plasma 5.27.8 
+ 'XM0.           ,OMMK'    OMMM7'              .XMK    WM: KWin, dwm
+   *WMO:.    .;xNMMk'       NNNMKl.          .xWMx     Theme: [Plasma], Breeze [GTK2/3] 
+     ^ONMMNXMMMKx;          V  'xNMWKkxllox0NMWk'      Icons: breeze-dark [Plasma], breeze-dark [GTK2/3] 
+         '''''                    ':dOOXXKOxl'         Terminal: konsole, st
+                                                       Terminal font: Hack Nerd Font
+                                                       CPU: Intel i5-3340 (4) @ 3.300GHz 
+                                                       GPU: NVIDIA GeForce GTX 750 Ti 
+                                                       Memory: 7874MiB 
+```
 
 ```
                                 ..,   Lucas-mother3@Windows
                     ....,,:;+ccllll   -----------
       ...,,+:;  cllllllllllllllllll   OS: Windows 10 Pro x86_64
 ,cclllllllllll  lllllllllllllllllll   Host: Gigabyte Technology Co., Ltd.
-llllllllllllll  lllllllllllllllllll   Kernel: 10.0.17763
+llllllllllllll  lllllllllllllllllll   Kernel: 10.0.19045
 llllllllllllll  lllllllllllllllllll   Uptime: xx days, xx hours, xx mins
 llllllllllllll  lllllllllllllllllll   Packages: ?
 llllllllllllll  lllllllllllllllllll   Shell: bash 5.1.16
@@ -33,8 +52,8 @@ llllllllllllll  lllllllllllllllllll   DE: Aero
                                       WM: Explorer
 llllllllllllll  lllllllllllllllllll   WM Theme: Custom
 llllllllllllll  lllllllllllllllllll   CPU: Intel i5-3340 (4) @ 3.100GHz
-llllllllllllll  lllllllllllllllllll   GPU: Intel(R) HD Graphics
-llllllllllllll  lllllllllllllllllll   Memory: 8063MiB
+llllllllllllll  lllllllllllllllllll   GPU: NVIDIA GeForce GTX 750 Ti 
+llllllllllllll  lllllllllllllllllll   Memory: 7874MiB
 llllllllllllll  lllllllllllllllllll   
 `'ccllllllllll  lllllllllllllllllll   
        `' \*::  :ccllllllllllllllll   
