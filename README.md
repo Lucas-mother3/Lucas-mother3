@@ -1,6 +1,6 @@
 ## `about:Lucas-mother3`
 ### Bio
-15 years old, living in the Philippines. Loves fiddling with computers but my lazy ass couldn't do much C. I always did (and still doing) HTML and CSS work
+16 years old (May 21), living in the Philippines. Loves fiddling with computers but my lazy ass couldn't do much C. I always did (and still doing) HTML and CSS work
 on sites such as my blog and The Blue Pages. Aspires to be a game developer, and content creator. Loves sharing things that are interesting.
 
 ### Setups
