@@ -1,6 +1,6 @@
 ## `about:Lucas-mother3`
 ### Bio
-16 years old (May 21), living in the Philippines. Loves fiddling with computers but my lazy ass couldn't do much C. I always did (and still doing) HTML and CSS work
+17 years old (May 21), living in the Philippines. Loves fiddling with computers but my lazy ass couldn't do much C. I always did (and still doing) HTML and CSS work
 on sites such as my blog and The Blue Pages. Aspires to be a game developer, and content creator. Loves sharing things that are interesting.
 
 ### Setups
@@ -67,7 +67,6 @@ llllllllllllll  lllllllllllllllllll
 ```
 
 [![Lucas-mother3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-mother3&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-mother3&theme=cobalt)](https://git.io/streak-stats)
 ### Blogs
 
 * [WordPress](https://alexisgaming21.wordpress.com)
