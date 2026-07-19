@@ -66,7 +66,7 @@ llllllllllllll  lllllllllllllllllll
                                  ``
 ```
 
-[![Lucas-mother3's GitHub stats](https://github-stats-extended.vercel.app/api?username=lucas-mother3)
+![Lucas-mother3's GitHub stats](https://github-stats-extended.vercel.app/api?username=lucas-mother3)
 ### Blogs
 
 * [WordPress](https://alexisgaming21.wordpress.com)
