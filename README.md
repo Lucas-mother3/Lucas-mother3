@@ -5,24 +5,25 @@ on sites such as my blog and The Blue Pages. Aspires to be a game developer, and
 
 ### Setups
 ```
-         -o          o-            Lucas-mother3@Android
-          +hydNNNNdyh+             -----------------
-        +mMMMMMMMMMMMMm+           OS: Android 12 aarch64
-      `dMMm:NMMMMMMN:mMMd`         Host: OPPO CPH2477 (A17)
-      hMMMMMMMMMMMMMMMMMMh         Kernel: 4.19.191+
-  ..  yyyyyyyyyyyyyyyyyyyy  ..     Uptime: xx days, xx hours, xx mins,
-.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   Packages: ?
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   Shell: zsh 5.9
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   CPU: MT6765G (8) @ 2.301GHz
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   Memory: 3796MiB
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
--MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
- +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
-      mMMMMMMMMMMMMMMMMMMm
-      `/++MMMMh++hMMMM++/`
-          MMMMo  oMMMM
-          MMMMo  oMMMM
-          oNMm-  -mMNs
+         -o          o-             Alexis Jhon@AlexisPhone-X7c
+          +hydNNNNdyh+              -----------------
+        +mMMMMMMMMMMMMm+            OS: Android REL 14 aarch64
+      `dMMm:NMMMMMMN:mMMd`          Host: HONOR X7c (ALT-LX2)
+      hMMMMMMMMMMMMMMMMMMh          Kernel: Linux 5.15.180-android13-8-00013-ge41b7a3e22fa-ab14313251
+  ..  yyyyyyyyyyyyyyyyyyyy  ..      Uptime: xx days, xx hours, xx mins
+.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.    Packages: ???
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    Shell: bash 5.2.37
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    DE: MagicOS 8.0.0
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    WM: WindowManager (SurfaceFlinger)
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    Terminal: Termux 0.118.2
+-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-    Terminal Font: monospace
+ +yy+ MMMMMMMMMMMMMMMMMMMM +yy+     CPU: SM6225 (4+4) @ 2.80 GHz
+      mMMMMMMMMMMMMMMMMMMm          GPU: Qualcomm Adreno (TM) 610 [Integrated]
+      `/++MMMMh++hMMMM++/`          Memory: 7.47 GiB
+          MMMMo  oMMMM              Swap: 8.00 GiB
+          MMMMo  oMMMM              Locale: en_US.UTF-8
+          oNMm-  -mMNs              
+                                    
 ```
 ```
                                      ......            Lucas-mother3@Linux
@@ -62,8 +63,8 @@ on sites such as my blog and The Blue Pages. Aspires to be a game developer, and
 /////////////////  /////////////////    Terminal Font: Cascadia Mono (12pt)
 /////////////////  /////////////////    CPU: Intel(R) Core(TM) i5-3340 (4) @ 3.09 GHz
 /////////////////  /////////////////    GPU: NVIDIA GeForce GTX 750 Ti @ 1.31 GHz (1.95 GiB) [Discrete]
-                                        Memory: 7.94 GiB (95%)
-                                        Swap: 8.00 GiB (5%)
+                                        Memory: 7.94 GiB
+                                        Swap: 8.00 GiB
                                         Locale: en_PH.CP437
 ```
 
