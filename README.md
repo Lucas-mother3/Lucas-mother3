@@ -6,7 +6,7 @@ on sites such as my blog and The Blue Pages. Aspires to be a game developer, and
 ### Setups
 ```
          -o          o-             Alexis Jhon@AlexisPhone-X7c
-          +hydNNNNdyh+              -----------------
+          +hydNNNNdyh+              ---------------------------
         +mMMMMMMMMMMMMm+            OS: Android REL 14 aarch64
       `dMMm:NMMMMMMN:mMMd`          Host: HONOR X7c (ALT-LX2)
       hMMMMMMMMMMMMMMMMMMh          Kernel: Linux 5.15.180-android13-8-00013-ge41b7a3e22fa-ab14313251
@@ -26,23 +26,29 @@ on sites such as my blog and The Blue Pages. Aspires to be a game developer, and
                                     
 ```
 ```
-                                     ......            Lucas-mother3@Linux
-     .,cdxxxoc,.               .:kKMMMNWMMMNk:.        ------------------ 
-    cKMMN0OOOKWMMXo. A        ;0MWk:'      ':OMMk.     OS: openSUSE Tumbleweed x86_64 
-  ;WMK;'       'lKMMNM,     :NMK'             'OMW;    Kernel: 6.5.3-1-default 
- cMW;             WMMMN   ,XMK'                 oMM.   Uptime: xx days, xx hours, xx mins 
-.MMc             ''^*~l. xMN:                    KM0   Packages: ?
-'MM.                   .NMO                      oMM   Shell: bash 5.2.15 
-.MM,                 .kMMl                       xMN   Resolution: 1920x1080 
- KM0               .kMM0' .dl>~,.               .WMd   DE: Plasma 5.27.8 
- 'XM0.           ,OMMK'    OMMM7'              .XMK    WM: KWin, dwm
-   *WMO:.    .;xNMMk'       NNNMKl.          .xWMx     Theme: [Plasma], Breeze [GTK2/3] 
-     ^ONMMNXMMMKx;          V  'xNMWKkxllox0NMWk'      Icons: breeze-dark [Plasma], breeze-dark [GTK2/3] 
-         '''''                    ':dOOXXKOxl'         Terminal: konsole, st
-                                                       Terminal font: Hack Nerd Font
-                                                       CPU: Intel i5-3340 (4) @ 3.300GHz 
-                                                       GPU: NVIDIA GeForce GTX 750 Ti 
-                                                       Memory: 7874MiB 
+          ,...,                                 Alexis Jhon@AlexisPC-DesktopSUSE
+     .,:lloooooc;.                              --------------------------------
+   ,ool'     oo,;oo:                            OS: openSUSE Tumbleweed x86_64
+ .lo'        oo.   oo:                          Kernel: Linux 7.2.6-1-default
+.oo.         oo.    oo:                         Uptime: xx days, xx hours, xx mins
+:ol          oo.    'oo                         Packages: ???
+:oo         .oo.    .oo.                        Shell: bash 5.3.15
+.oooooooooooooo.    .oo.                        Display (Union TV): 1920x1080 @ 1.25x in 55", 60 Hz [External]
+ ;oo.               .oo.                        Desktop Environment: KDE Plasma 6.7.5
+  'oo,              .oo.                        Window Manager: KWin (Wayland)
+    "ooc,',,,,,,,,,,:ooc,,,,,,,,,,,             WM Theme: Breeze
+       ':cooooooooooooooooooooooooool;.         Theme: Breeze (Dark) [Qt], Breeze-Dark [GTK2], Breeze [GTK3]
+                    .oo.             .oo;       Icons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
+                    .oo.               .oo.     Font: Noto Sans (10pt) [Qt], Noto Sans (10pt) [GTK2/3/4]
+                    .oo.    'oooooooooo:ooo.    Cursor: breeze (24px)
+                    .oo.    'oo.         col    Terminal: konsole 26.8.1
+                    .oo'    'oo          col    CPU: Intel(R) Core(TM) i5-3340 (4) @ 3.30 GHz
+                     coo    'oo          oo'    GPU: NVIDIA GeForce GTX 750 Ti [Discrete]
+                      coc   'oo        .lo,     Memory: 7.70 GiB
+                       `oo, 'oo      .:oo       Swap: 2.00 GiB
+                         'ooooc,, ,:lol         Locale: en_US.UTF-8
+                            `''"clc"'           
+                                                
 ```
 
 ```
