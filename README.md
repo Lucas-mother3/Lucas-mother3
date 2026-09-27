@@ -45,25 +45,26 @@ on sites such as my blog and The Blue Pages. Aspires to be a game developer, and
 ```
 
 ```
-                                ..,   Lucas-mother3@Windows
-                    ....,,:;+ccllll   -----------
-      ...,,+:;  cllllllllllllllllll   OS: Windows 10 Pro x86_64
-,cclllllllllll  lllllllllllllllllll   Host: Gigabyte Technology Co., Ltd.
-llllllllllllll  lllllllllllllllllll   Kernel: 10.0.19045
-llllllllllllll  lllllllllllllllllll   Uptime: xx days, xx hours, xx mins
-llllllllllllll  lllllllllllllllllll   Packages: ?
-llllllllllllll  lllllllllllllllllll   Shell: bash 5.1.16
-llllllllllllll  lllllllllllllllllll   DE: Aero
-                                      WM: Explorer
-llllllllllllll  lllllllllllllllllll   WM Theme: Custom
-llllllllllllll  lllllllllllllllllll   CPU: Intel i5-3340 (4) @ 3.100GHz
-llllllllllllll  lllllllllllllllllll   GPU: NVIDIA GeForce GTX 750 Ti 
-llllllllllllll  lllllllllllllllllll   Memory: 7874MiB
-llllllllllllll  lllllllllllllllllll   
-`'ccllllllllll  lllllllllllllllllll   
-       `' \*::  :ccllllllllllllllll   
-                       ````''*::cll
-                                 ``
+/////////////////  /////////////////    Alexis Jhon@AlexisPC-Desktop11
+/////////////////  /////////////////    ------------------------------
+/////////////////  /////////////////    OS: Windows 11 IoT Enterprise LTSC (24H2) x86_64
+/////////////////  /////////////////    Kernel: WIN32_NT 10.0.26100.9457
+/////////////////  /////////////////    Uptime: xx days, xx hours, xx mins
+/////////////////  /////////////////    Shell: CMD 10.0.26100.9278
+/////////////////  /////////////////    Display (Union TV): 1920x1080 @ 1.25x in 55", 60 Hz [External]
+/////////////////  /////////////////    Window Manager: Desktop Window Manager 10.0.26100.9278
+                                        WM Theme: Custom - Steel blue (System: Dark, Apps: Dark)
+/////////////////  /////////////////    Theme: Fluent
+/////////////////  /////////////////    Icons: Recycle Bin
+/////////////////  /////////////////    Font: Segoe UI (15pt) [Caption / Menu / Message / Status]
+/////////////////  /////////////////    Cursor: Breeze 6.1 (32px)
+/////////////////  /////////////////    Terminal: Windows Terminal 1.24.11911.0
+/////////////////  /////////////////    Terminal Font: Cascadia Mono (12pt)
+/////////////////  /////////////////    CPU: Intel(R) Core(TM) i5-3340 (4) @ 3.09 GHz
+/////////////////  /////////////////    GPU: NVIDIA GeForce GTX 750 Ti @ 1.31 GHz (1.95 GiB) [Discrete]
+                                        Memory: 7.94 GiB (95%)
+                                        Swap: 8.00 GiB (5%)
+                                        Locale: en_PH.CP437
 ```
 
 ![Lucas-mother3's GitHub stats](https://github-stats-extended.vercel.app/api?username=lucas-mother3)
