@@ -73,6 +73,29 @@ on sites such as my blog and The Blue Pages. Aspires to be a game developer, and
                                         Swap: 8.00 GiB
                                         Locale: en_PH.CP437
 ```
+```
+/////////////////  /////////////////    Alexis Jhon@AlexisPC-Thinkpad11
+/////////////////  /////////////////    -------------------------------
+/////////////////  /////////////////    OS: Windows 11 IoT Enterprise LTSC (24H2) x86_64
+/////////////////  /////////////////    Host: 20HD005GUS (ThinkPad T470)
+/////////////////  /////////////////    Kernel: WIN32_NT 10.0.26100.9711
+/////////////////  /////////////////    Uptime: xx days, xx hours, xx mins
+/////////////////  /////////////////    Shell: CMD 10.0.26100.9278
+/////////////////  /////////////////    Display (BOE072C): 1920x1080 @ 1.25x in 14", 60 Hz [Built-in]
+                                        Window Manager: Desktop Window Manager 10.0.26100.9549
+/////////////////  /////////////////    WM Theme: Custom - #5B749B (System: Dark, Apps: Dark)
+/////////////////  /////////////////    Theme: Fluent
+/////////////////  /////////////////    Icons: Recycle Bin
+/////////////////  /////////////////    Font: Segoe UI (15pt) [Caption / Menu / Message / Status]
+/////////////////  /////////////////    Cursor: Breeze 6.1 (32px)
+/////////////////  /////////////////    Terminal: Windows Terminal 1.25.2733.0
+/////////////////  /////////////////    Terminal Font: CaskaydiaCove Nerd Font Mono (12pt)
+/////////////////  /////////////////    CPU: Intel(R) Core(TM) i7-7600U (4) @ 2.90 GHz
+                                        GPU: Intel(R) HD Graphics 620 (128.00 MiB) [Integrated]
+                                        Memory: 31.84 GiB
+                                        Swap: 4.75 GiB
+                                        Locale: en_PH.CP437
+```
 
 ![Lucas-mother3's GitHub stats](https://github-stats-extended.vercel.app/api?username=lucas-mother3)
 ### Blogs
